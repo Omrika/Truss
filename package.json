@@ -1,0 +1,14 @@
+{
+  "name": "truss",
+  "version": "1.0.0",
+  "description": "Getting started: Please make sure you're running Node v13.5.0. If you're using NVM (Node Version Manager), use nvm use to automatically update your version of Node.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./normalizer/index.js"
+  },
+  "author": "Omrika",
+  "license": "ISC"
+}
